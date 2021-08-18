@@ -1,0 +1,51 @@
+#search
+
+{ 
+    width: 200px;
+    height: 50px;
+
+    background-color: rgb(255, 255, 255); 
+    color: rgb(14, 212, 64);
+    border-color: rgb(14, 212, 64);
+
+    text-align: center;
+
+border-radius: 25px;
+display: block;
+
+
+}
+
+#circle {
+    width: 40px;
+    height: 40px;
+
+    background-color: rgb(12, 255, 4); 
+    color: rgb(255, 255, 255);
+    border-color: rgb(14, 212, 64);
+
+    text-align:center;
+    text-decoration: cornsilk; font-size: 25px;
+border-radius: 50%;
+display: block;
+
+
+
+}
+
+
+#account {
+
+    width: 200px;
+    height: 50px;
+
+    background-color: rgb(17, 0, 255); 
+    color: rgb(255, 255, 255);
+    border-color: black;
+    text-align: center;
+    
+border-radius:0px ;
+box-shadow: 10px 5px 5px black;
+
+display: block;
+}
